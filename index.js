@@ -21,3 +21,11 @@ function testAdd() {
 function testSub() {
   console.log(subtract(2, 1)===1);
 }
+
+function testMul() {
+  console.log(multiply(2, 3)===6);
+}
+
+function testDiv() {
+  console.log(div(6, 3)===2);
+}
