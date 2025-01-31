@@ -14,8 +14,6 @@ function multiply (a, b) {
   return a * b;
 }
 
-qwerefkhkfhfkshfk
-
 function testAdd() {
   console.log(add(1, 1) === 2);
 }
