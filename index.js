@@ -23,9 +23,9 @@ function testSub() {
 }
 
 function testMul() {
-  console.log(multiply(2, 3)===6);
+  console.log(multiply(3, 3)===9);
 }
 
 function testDiv() {
-  console.log(div(6, 3)===2);
+  console.log(div(6,2)===3);
 }
